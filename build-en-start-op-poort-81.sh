@@ -1,2 +1,2 @@
-docker build -t img-opdracht .
-docker run -dt -p 81:80 --name img-opdracht
+docker build -t demo-site .
+docker run -dt -p 81:80 --name opdracht6 demo-site
